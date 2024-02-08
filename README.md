@@ -4,7 +4,7 @@
 
 -----------------
 
-Software Engineeer Enthusiastic, i have been able to learn many languages (Python, JavaScript, C etc) and frameworks (Angular, React, Django, Nodejs, Laravel etc) but now focusing on frontend tool Angular, opened to any collaborations.
+Software Engineeer Enthusiastic, I have been able to learn many languages (Python, JavaScript, PHP, C etc) and frameworks (Angular, React, Django, Nodejs, Laravel etc) but now focusing on frontend tool Angular, opened to any collaborations.
 
 -----------------
 
