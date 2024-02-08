@@ -36,7 +36,6 @@ Software Engineeer Enthusiastic, i have been able to learn many languages (Pytho
 
 ### GitHub Stats
 
-<b>My GitHub Stats</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iyk-Tech22&show_icons=true&locale=en&layout=compact" alt="Iyk-Tech22" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Iyk-Tech22&show_icons=true&locale=en" alt="Iyk-Tech22" /></p>
 
