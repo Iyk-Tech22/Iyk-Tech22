@@ -20,7 +20,7 @@ I always enjoy solving challenges and this is what led me into the programming, 
 
 * ⚡  I enjoy watching Animes and playing Games
 
-<a href="https://www.github.com/mamt4real" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mamt4real?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
+<a href="https://www.github.com/Iyk-Tech22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Iyk-Tech22?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -38,10 +38,7 @@ I always enjoy solving challenges and this is what led me into the programming, 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mamt4real"><img src="https://github-readme-stats.vercel.app/api?username=mamt4real&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="mamt4real's GitHub stats" /></a>
+<a href="http://www.github.com/Iyk-Tech22"><img src="https://github-readme-stats.vercel.app/api?username=Iyk-Tech22&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="mamt4real's GitHub stats" /></a>
 
-<a href="http://www.github.com/mamt4real"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mamt4real&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/mamt4real"><img src="https://activity-graph.herokuapp.com/graph?username=mamt4real&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/mamt4real" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamt4real&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Iyk-Tech22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyk-Tech22&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
