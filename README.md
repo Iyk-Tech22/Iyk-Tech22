@@ -4,17 +4,17 @@
 
 -----------------
 
-Software Engineeer Enthusiastic, I have been able to learn many languages (Python, JavaScript, PHP, C etc) and frameworks (Angular, React, Django, Nodejs, Laravel etc) but now focusing on frontend tool Angular, opened to any collaborations.
+Software Engineeer Enthusiast, I have been able to learn many languages (C, JavaScript, Python, PHP, C etc) and frameworks (Angular, Reactjs, Nextjs, Nodejs, C# ASP.NET (both MVC and REST APIs)) but now focusing on frontend tool Angular, Reactjs, Nextjs, opened to any collaborations.
 
 -----------------
 
-* 🌍  I based in F.C.T Abuja State, Nigeria
+* 🌍  Base in F.C.T Abuja State, Nigeria
 
 * 🖥️  See my portfolio at [portfolio](https://clipz-ten-sandy.vercel.app/)
 
 * ✉️  You can contact me at [ikechukwugodwin22@gmail.com](mailto:ikechukwugodwin22@gmail.com)
 
-* 🧠  I'm learning AngularJs Framework
+* 🧠  I'm learning Nodejs Express Framework and C# ASP.NET.
 
 * 🤝  I'm open to collaborating on Any projects involving Frontend development.
 
