@@ -8,7 +8,7 @@ Software Engineeer Enthusiast, I have been able to learn many languages (C, Java
 
 -----------------
 
-* 🌍  Base in F.C.T Abuja State, Nigeria
+* 🌍  .
 
 * 🖥️  See my portfolio at [portfolio](https://clipz-ten-sandy.vercel.app/)
 
