@@ -8,7 +8,7 @@ Software Engineeer Enthusiast, I have been able to learn many languages (C, Java
 
 -----------------
 
-* 🌍  .
+* 🌍 3 KENHILL DRIVE ETOBICOKE ONTARIO M9V 2M1, Canada
 
 * 🖥️  See my portfolio at [portfolio](https://clipz-ten-sandy.vercel.app/)
 
