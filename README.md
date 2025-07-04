@@ -4,8 +4,7 @@
 
 -----------------
 
-Software Engineeer Enthusiast, I have been able to learn many languages (C, JavaScript, Python, PHP, C etc) and frameworks (Angular, Reactjs, Nextjs, Nodejs, C# ASP.NET (both MVC and REST APIs)) but now focusing on frontend tool Angular, Reactjs, Nextjs, opened to any collaborations.
-
+Software Engineeer, with a passion for building robust and scalable systems.
 -----------------
 
 * 🌍 3 KENHILL DRIVE ETOBICOKE ONTARIO M9V 2M1, Canada
